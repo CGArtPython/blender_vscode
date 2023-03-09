@@ -1,3 +1,13 @@
+# This is a Fork 
+
+This is a fork of the original `Blender Development` extension by Jacques Lucke.
+https://marketplace.visualstudio.com/items?itemName=JacquesLucke.blender-development
+Unfortunately, the original extension is not actively developed anymore.
+I wasn't able to contact Jacques, so I'm publishing this Fork.
+
+The primary differences from the original extension are:
+* Fixed the `bpy.context` issues when running scripts https://github.com/JacquesLucke/blender_vscode/pull/138
+
 # Blender Development in VS Code
 
 The only key combination you have to remember is `ctrl+shift+P`.
@@ -92,4 +102,4 @@ The preferred way to insert this comment is to execute the `Blender: Set Script 
 
 ## Status
 
-This extension is not actively developed anymore. However, if you are interested in working on this extension, please contact me.
+Work In Progress
