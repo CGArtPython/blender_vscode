@@ -1,9 +1,9 @@
 {
-  "name": "blender-development",
-  "displayName": "Blender Development",
-  "description": "Tools to simplify Blender development.",
-  "version": "0.0.17",
-  "publisher": "JacquesLucke",
+  "name": "blender-development-experimental-fork",
+  "displayName": "Blender Development [Experimental Fork]",
+  "description": "Tools to simplify Blender development. A fork of the original Blender Development extension by Jacques Lucke.",
+  "version": "0.0.171",
+  "publisher": "CGPython",
   "license": "MIT",
   "engines": {
     "vscode": "^1.28.0"
@@ -29,10 +29,10 @@
   "main": "./out/extension",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JacquesLucke/blender_vscode"
+    "url": "https://github.com/CGArtPython/blender_vscode"
   },
   "bugs": {
-    "url": "https://github.com/JacquesLucke/blender_vscode/issues"
+    "url": "https://github.com/CGArtPython/blender_vscode/issues"
   },
   "contributes": {
     "commands": [
