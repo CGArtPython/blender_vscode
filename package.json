@@ -5,6 +5,7 @@
   "version": "0.0.171",
   "publisher": "CGPython",
   "license": "MIT",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.28.0"
   },
