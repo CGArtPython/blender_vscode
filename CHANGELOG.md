@@ -1,7 +1,6 @@
 # Changelog
 
-## Unreleased
-
+## [0.0.171] - 2023-03-29
 
 ### Added
 - New `blender.environmentVariables` option. Can be used to define environment variables passed to
@@ -12,6 +11,8 @@ blender on `Blender Start`.
 settings before user settings.
 
 ### Fixed
+
+- Fixed the `bpy.context` issues when running scripts https://github.com/JacquesLucke/blender_vscode/pull/138
 
 ## [0.0.17] - 2022-06-08
 
