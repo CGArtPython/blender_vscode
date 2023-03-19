@@ -1,8 +1,11 @@
 # Changelog
 
-## Unreleased
-
 ## [0.0.18] - 2023-04-02
+
+### Fixed
+- Behavior of scripts that changed context like the active object.
+
+## [0.0.171] - 2023-03-29
 
 
 ### Added
@@ -14,7 +17,7 @@ blender on `Blender Start`.
 settings before user settings.
 
 ### Fixed
-- Behavior of scripts that changed context like the active object.
+- Fixed the `bpy.context` issues when running scripts https://github.com/JacquesLucke/blender_vscode/pull/138
 
 ## [0.0.17] - 2022-06-08
 
