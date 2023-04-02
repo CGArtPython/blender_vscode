@@ -19,6 +19,8 @@ settings before user settings.
 ### Fixed
 - Fixed the `bpy.context` issues when running scripts https://github.com/JacquesLucke/blender_vscode/pull/138
 
+- Fixed the `bpy.context` issues when running scripts https://github.com/JacquesLucke/blender_vscode/pull/138
+
 ## [0.0.17] - 2022-06-08
 
 ### Added
