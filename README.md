@@ -6,7 +6,7 @@ https://marketplace.visualstudio.com/items?itemName=JacquesLucke.blender-develop
 This fork is for experimental features and bug fixes that might or might not make it into the original `Blender Development` extension.
 
 The primary differences from the original extension are:
-* Fixed the `bpy.context` issues when running scripts https://github.com/JacquesLucke/blender_vscode/pull/138
+* None (currently this Fork is synced with the latest changes from the original `Blender Development` extension)
 
 # Blender Development in VS Code
 
