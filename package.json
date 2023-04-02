@@ -2,7 +2,7 @@
   "name": "blender-development-experimental-fork",
   "displayName": "Blender Development [Experimental Fork]",
   "description": "Tools to simplify Blender development. A fork of the original Blender Development extension by Jacques Lucke.",
-  "version": "0.0.172",
+  "version": "0.0.18",
   "publisher": "CGPython",
   "license": "MIT",
   "icon": "images/icon.png",
