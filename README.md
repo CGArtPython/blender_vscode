@@ -6,7 +6,7 @@ https://marketplace.visualstudio.com/items?itemName=JacquesLucke.blender-develop
 This fork is for experimental features and bug fixes that might or might not make it into the original `Blender Development` extension.
 
 The primary differences from the original extension are:
-* None (currently this Fork is synced with the latest changes from the original `Blender Development` extension)
+* Support scripts that use if __name__ == "__main__":
 
 # Blender Development in VS Code
 
@@ -16,6 +16,11 @@ All commands of this extension can be found by searching for `Blender`.
 ## Installation
 
 The extension is [installed](https://code.visualstudio.com/docs/editor/extension-gallery) like any other extension in Visual Studio Code.
+
+### Setting up Blender Development in VSCode video
+
+YouTube tutorial:
+* [5 Steps to setup VSCode for Blender Python (on Windows)](https://www.youtube.com/watch?v=YUytEtaVrrc)
 
 ## Addon Tools
 
