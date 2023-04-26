@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.0.181] - 2023-04-25
+
+### Fixed
+- Support scripts that use if __name__ == "__main__":
+
 ## [0.0.18] - 2023-04-02
 
 ### Fixed
