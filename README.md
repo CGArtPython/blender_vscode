@@ -1,3 +1,14 @@
+# This is a Fork 
+
+This is a fork of the original `Blender Development` extension by Jacques Lucke.
+https://marketplace.visualstudio.com/items?itemName=JacquesLucke.blender-development
+
+This fork is for experimental features and bug fixes that might or might not make it into the original `Blender Development` extension.
+
+The primary differences from the original extension are:
+* Support for the "Run Script" command in Blender 4.0
+* Support scripts that use if __name__ == "__main__":
+
 # Blender Development in VS Code
 
 The only key combination you have to remember is `ctrl+shift+P`.
