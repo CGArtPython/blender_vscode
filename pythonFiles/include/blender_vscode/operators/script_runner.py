@@ -13,7 +13,7 @@ class RunScriptOperator(bpy.types.Operator):
 
     def execute(self, context):
         ctx = prepare_script_context(self.filepath)
-        runpy.run_path(self.filepath, init_globals={"CTX" : ctx})
+        runpy.run_path(self.filepath, run_name="__main__", init_globals={"CTX" : ctx})
         redraw_all()
         return {'FINISHED'}
 
